@@ -11,9 +11,12 @@ This dataset contains customer-level telecommunications records used to analyze 
 
 ## Source and usage
 
-- Dataset title: Telecom Customer Churn
-- **Source URL:** `[Paste the original dataset URL]`
+- **Dataset title:** Telecom Customer Churn
+- **Publisher:** Maven Analytics Data Playground
+- **Original source:** IBM Cognos Analytics
+- **Dataset URL:** [Telecom Customer Churn dataset](https://mavenanalytics.io/data-playground/telecom-customer-churn)
 - **Date accessed:** 2026-09-30
+- **Usage:** Public portfolio analysis; review the source page for the applicable dataset terms.
 
 > This repository contains an independent portfolio analysis. It does not contain confidential client or employer data.
 
