@@ -29,7 +29,7 @@ Which customer segments were most likely to churn, why were they leaving and whe
 - 4,720 stayed customers
 - `$3.7M` in churned revenue represented in the dashboard
 
-The repository should include the original dataset attribution and applicable usage terms in `data/data_dictionary.md`.
+Dataset definitions and source attribution are documented in [`data/data_dictionary.md`](data/data_dictionary.md).
 
 ## Tools used
 
@@ -68,14 +68,12 @@ The repository should include the original dataset attribution and applicable us
 
 ```text
 telecom-customer-churn-dashboard/
-├── README.md
-├── dashboard/
-│   ├── telecom_churn_dashboard.twbx
-│   └── tableau_public_link.md
 ├── data/
+│   ├── telecom_customer_churn.csv
 │   └── data_dictionary.md
-└── visuals/
-    └── telecom-customer-churn-poster.png
+├── visuals/
+│   └── telecom-customer-churn-poster.png
+└── README.md
 ```
 
 ## Limitations
